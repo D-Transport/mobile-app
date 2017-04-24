@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a56a629e7f9eda94634da5dd168edc658b8ef15">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_787c1879f373fe99a3d5c97605b62d2de9ddada8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Javamat\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_5e57ed6d1e089fc1f16fd66c553c57884f53c7d5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_022537f1c5038b6017c323a99fbb232be865a20c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Javamat\.android\build-cache\a627ddd414380f62088372695fee8a625722df05\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\pre-dexed\debug\classes_ab851fa7ca35cb2c1c1ccb6a90a51ee73dff327c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Javamat\.android\build-cache\6018f1f7de55e1405c8aee25230e2f00ba5a8200\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\pre-dexed\debug\classes_76aa8a8e1a756c6ac88924b0a08cfe54c09ec835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Javamat\.android\build-cache\ded945237b8118412a0fcdb8be3250566c46c50c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\pre-dexed\debug\classes_caccea1ea7f64280b4fa54d3dc7a059d72c2ceca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Javamat\.android\build-cache\567335e2324474f8a47f8655f3f697729070fc54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\pre-dexed\debug\classes_5ab44017d3f742f83e3df21830fe92b33b973d1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Javamat\.android\build-cache\46394250a46ad954f53eb2fce028b4e33caba0e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\pre-dexed\debug\classes_edc0a6414fe2ea7e6f0eae93d52beb75b9d69757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Javamat\.android\build-cache\9ffb16b5890b5eec0c10255633e7416a02377d2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\pre-dexed\debug\classes_359927c8ee1acedab4389ffe84eccac3186a0ef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Javamat\.android\build-cache\4bc34f6bae4a869ec03d6183611a460feeab3b4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\pre-dexed\debug\classes_059e301342f4bfc192f404c23f03d7e1f4bb97bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Javamat\.android\build-cache\f8f1a7b11eda0447a30c6c4c2bd475e4027cb639\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\pre-dexed\debug\classes_fee0fd66b996e96958f5f3d9ddb919e139d8b9dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Javamat\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_71edb61bce08fb9d3c31aaadfff69ded9a48ae47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Javamat\.android\build-cache\08086248d00ccbac969c0611b57dc4dd0b464042\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\pre-dexed\debug\classes_3ace5ccc374f68e1484f796b44aee57648dd60f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Javamat\.android\build-cache\87074c0e5eb6b345060f569465ca6665e3a2ce00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\pre-dexed\debug\classes_7b144d6bb7939fc67972197e2b6af3e1e03f774d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Javamat\.android\build-cache\9c4aa76acce54337d68492e8a2833938799dec71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\pre-dexed\debug\classes_6e7ae5e4e52ade57235671bab2a1a7eabb6cdb47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Javamat\.android\build-cache\654066d41e3106fd2528b182bb91aecc09b7dcb8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\pre-dexed\debug\classes_44069f207207ad5cf509eb06efd08294366df4b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Javamat\.android\build-cache\6c6a6dcc7e3129d86e6f4380a69d5517060491de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Javamat\AndroidStudioProjects\mobile\app\build\intermediates\pre-dexed\debug\classes_502aebd320cedb33a17931ee4c599057d9de2564.jar" />
+    </item>
+
+</items>

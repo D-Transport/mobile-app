@@ -1,0 +1,20 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- These settings headers are only used on tablets. -->
+
+    <header
+        android:fragment="fr.dtransport.mobile.SettingsActivity$Web3PreferenceFragment"
+        android:icon="@drawable/ic_sync_black_24dp"
+        android:title="Web3" />
+
+    <header
+        android:fragment="fr.dtransport.mobile.SettingsActivity$EthereumPreferenceFragment"
+        android:icon="@android:drawable/ic_secure"
+        android:title="Ethereum" />
+
+    <header
+        android:fragment="fr.dtransport.mobile.SettingsActivity$TerminalPreferenceFragment"
+        android:icon="@android:drawable/checkbox_on_background"
+        android:title="Terminal" />
+
+</preference-headers>
